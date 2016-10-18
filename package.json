@@ -1,6 +1,6 @@
 {
   "name": "gitbook-plugin-angular2-style-guide-block",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Use some block styles in angular2 style guide to gitbook.",
   "main": "index.js",
   "engines": {
