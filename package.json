@@ -1,0 +1,20 @@
+{
+  "name": "gitbook-plugin-angular2-style-guide-block",
+  "version": "0.0.1",
+  "description": "Use some block styles in angular2 style guide to gitbook.",
+  "main": "index.js",
+  "engines": {
+    "gitbook": ">1.x.x"
+  },
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "gitbook",
+    "plugins"
+  ],
+  "author": "Wellwind",
+  "license": "ISC"
+}
