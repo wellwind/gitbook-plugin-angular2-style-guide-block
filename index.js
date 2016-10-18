@@ -23,6 +23,10 @@ module.exports = {
         assets: './assets',
         css: ['plugin.css']
     },
+    ebook: {
+        assets: './assets',
+        css: ['plugin.css']
+    },
     blocks: {
         rule_do: {
             shortcuts: {
