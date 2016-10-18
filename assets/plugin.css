@@ -28,13 +28,14 @@
 }
 
 .code {
+    padding-left: 8px;
     color: #FFFFFF;
 }
 
 .code.bad {
-    background-color: #D32F2F;
+    background-color: #FF0000;
 }
 
 .code.good {
-    background-color: #1976D2;
+    background-color: #0000FF;
 }
